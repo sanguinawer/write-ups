@@ -9,5 +9,5 @@
 
 
 ## Other write-ups
-
+Am3s1a Write up https://infotomb.com/1e6d4.pdf
 
